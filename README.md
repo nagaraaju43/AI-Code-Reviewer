@@ -20,7 +20,6 @@ An AI-powered full-stack web application that analyzes source code and provides 
 
 ---
 
----
 
 ## 🛠️ Tech Stack
 
@@ -47,24 +46,28 @@ An AI-powered full-stack web application that analyzes source code and provides 
 ```bash
 git clone https://github.com/nagaraaju43/AI-Code-Reviewer.git
 cd AI-Code-Reviewer
+```
 
-
-### 2. Backend Setup 
+## 2. Backend Setup 
 
 ```bash
 cd backend
 npm install
+nodemon app.js
+```
 
 ### Create .env file:
 
 ```bash
 GROQ_API_KEY=your_api_key_here
+```
 
-### 3. Frontend Setup
+## 3. Frontend Setup
 ```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ### Usage
 1. Enter code in the editor
