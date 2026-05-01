@@ -68,6 +68,7 @@ cd frontend
 npm install
 npm run dev
 ```
+---
 
 ### Usage
 1. Enter code in the editor
@@ -78,6 +79,7 @@ npm run dev
  💡 Improvements
 4. Copy or apply fixes
 
+---
 
 ###📌 Future Improvements
 🔄 Streaming response UI
@@ -86,9 +88,13 @@ npm run dev
 📊 Code quality scoring
 🧠 AI explanation mode
 
+---
+
 ### 👨‍💻 Author
 Akambaram Nagaraju
 🔗 https://github.com/nagaraaju43
+
+---
 
 ###⭐ Support
 
