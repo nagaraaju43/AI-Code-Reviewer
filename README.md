@@ -40,8 +40,6 @@ An AI-powered full-stack web application that analyzes source code and provides 
 ---
 
 
----
-
 ## ⚙️ Setup & Installation
 
 ### 1. Clone Repo
@@ -51,3 +49,44 @@ git clone https://github.com/nagaraaju43/AI-Code-Reviewer.git
 cd AI-Code-Reviewer
 
 
+### 2. Backend Setup 
+
+```bash
+cd backend
+npm install
+
+### Create .env file:
+
+```bash
+GROQ_API_KEY=your_api_key_here
+
+### 3. Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+
+### Usage
+1. Enter code in the editor
+2. Click Review
+3. Get:
+ ❌ Issues 
+ ✅ Fix
+ 💡 Improvements
+4. Copy or apply fixes
+
+
+###📌 Future Improvements
+🔄 Streaming response UI
+🌍 Multi-language support
+🧪 Unit test generation
+📊 Code quality scoring
+🧠 AI explanation mode
+
+### 👨‍💻 Author
+Akambaram Nagaraju
+🔗 https://github.com/nagaraaju43
+
+###⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
